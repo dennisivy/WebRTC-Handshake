@@ -1,7 +1,7 @@
 # WebRTC Handshake
 Simple app to demonstrate how two peers exchange SDP offer and SDP Answer WITHOUT signaling.
 
-## Live demo: <a href="https://divanov11.github.io/WebRTC-Handshake/">Demo</a>
+## Live demo: <a href="https://dennisivy.github.io/WebRTC-Handshake/">Demo</a>
 
 <img src="./WebRTC SDP Gif.gif">
 
@@ -14,7 +14,7 @@ Simple app to demonstrate how two peers exchange SDP offer and SDP Answer WITHOU
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/divanov11/WebRTC-Handshake.git
+git clone https://github.com/dennisivy/WebRTC-Handshake.git
 ```
 
 2. Navigate to the project directory:
